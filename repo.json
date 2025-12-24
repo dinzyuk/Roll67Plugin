@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "Dinzy",
+    "Name": "Roll Sound Player",
+    "Punchline": "Play custom sounds for any roll number",
+    "Description": "Plays custom sound files when specific numbers are rolled in FFXIV. Works with both /random rolls and loot rolls. Configure multiple roll numbers with different sounds through an easy-to-use GUI with file browser.",
+    "InternalName": "Roll67Plugin",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/dinzyuk/Roll67Plugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "sound",
+      "dice",
+      "roll",
+      "loot",
+      "fun"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/dinzyuk/Roll67Plugin/releases/latest/download/Roll67Plugin.zip",
+    "DownloadLinkTesting": "https://github.com/dinzyuk/Roll67Plugin/releases/latest/download/Roll67Plugin.zip",
+    "DownloadLinkUpdate": "https://github.com/dinzyuk/Roll67Plugin/releases/latest/download/Roll67Plugin.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
+  }
+]
