@@ -22,5 +22,28 @@
     "DownloadLinkUpdate": "https://github.com/dinzyuk/Roll67Plugin/releases/latest/download/Roll67Plugin.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
+  },
+  {
+    "Author": "Dinzy",
+    "Name": "Meowdy Plugin",
+    "Punchline": "Displays a custom image when someone says Meowdy in chat",
+    "Description": "Shows a centered, fading image overlay whenever 'Meowdy' is detected in game chat. Supports custom images - just place meowdy.png in the plugin folder!",
+    "InternalName": "MeowdyPlugin",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/dinzyuk/MeowdyPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "chat",
+      "fun",
+      "image",
+      "social"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/dinzyuk/MeowdyPlugin/releases/latest/download/MeowdyPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/dinzyuk/MeowdyPlugin/releases/latest/download/MeowdyPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/dinzyuk/MeowdyPlugin/releases/latest/download/MeowdyPlugin.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]
